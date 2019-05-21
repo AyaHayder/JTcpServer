@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TcpSerevr1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TcpSerevr1_jar</output-path>
+    <root id="archive" name="TcpSerevr1.jar">
+      <element id="module-output" name="TcpSerevr1" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/NetBeansProjects/ServerData/dist/ServerData.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
